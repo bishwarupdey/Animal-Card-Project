@@ -2,6 +2,7 @@
 This project will test the basic HTML and CSS knowledge. Here you will be replicating an animal trading card such as below. 
 You can choose any animal other than the one listed below. It can be other topics such as sports trading cards but for this 
 project we are using animals as the topic. Good Luck!
+
 ![{097A1C75-EA50-4E1C-AE27-0F0A3DD456A8}](https://github.com/user-attachments/assets/08e6183b-9354-4008-8e5c-3ef33297162c)
 
 ## Table of Contents
@@ -32,6 +33,7 @@ There are 5 files in this project as shown below.
   - 3 image files for the three animals.
   - 1 HTML file.
   - 1 CSS file.
+    
 ![{E4F033C4-41EA-4DDC-9EA2-F2F81B3ED0EF}](https://github.com/user-attachments/assets/0da81d66-02db-4a9f-9a76-61ce32c74c64)
 
 **Final product**
